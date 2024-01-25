@@ -1,4 +1,4 @@
-# CRUD de clientes com NextJs + Firestore
+# Cadastro de clientes com NextJs + Firestore
 
 Este é um CRUD de clientes feito no NextJs 14.1.0, que armazena os dados no Firestore da Google.
 
